@@ -1,0 +1,6 @@
+directories:
+  output: dist
+  buildResources: build
+publish:
+  provider: github
+electronVersion: 5.0.10
